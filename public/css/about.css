@@ -71,6 +71,10 @@ iframe{
     flex-wrap: wrap;
 }
 
+.recommendations p{
+    padding-bottom: 20px;
+}
+
 .movie p{
     position: absolute;
     bottom: 30px;
