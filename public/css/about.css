@@ -89,3 +89,29 @@ iframe{
 .movie:hover p{
     opacity: 1;
 }
+
+
+footer .contact{
+    color: #fff;
+    font-family: sans-serif;
+    margin-left: 80px;
+    padding-bottom: 200px;
+    opacity: 0.6;
+}
+
+.contact .column{
+    display: flex;
+    gap: 80px;
+    margin-top: 30px;
+}
+
+.contact .ques{
+    margin-left: 13px;
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+.contact .column p{
+    padding: 15px;
+    font-size: 14px;
+}
